@@ -1,0 +1,18 @@
+{
+  "LANG": {
+    "ENGLISH": "英語",
+    "JAPANESE": "日本語"
+  },
+  "GLOBAL_NAV": {
+    "HOME": "ホーム",
+    "ADMIN": "管理者ページ"
+  },
+  "HOME": {
+    "HELLO": "こんにちわ {{me}}",
+    "HELLO2": "こんにちわ2 {{value}}",
+    "HELLO3": "こんにちわ3 {{value_local}}",
+    "DESCRIPTION": " このページは {{my}} のホームページです。",
+    "YOU CAN SWITCH LANGUAGES": "言語を切り替えられます",
+    "HTML_MESSAGE": "私のAngularアプリケーションへようこそ！<br><strong>これは、最新の技術を使用していて素晴らしいアプリです！</strong>"
+  }
+}

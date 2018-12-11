@@ -1,0 +1,18 @@
+{
+  "LANG": {
+    "ENGLISH": "English",
+    "JAPANESE": "Japanese"
+  },
+  "GLOBAL_NAV": {
+    "HOME": "Home",
+    "ADMIN": "Admin Page"
+  },
+  "HOME": {
+    "HELLO": "Hello {{me}} !!!",
+    "HELLO2": "Hello2 {{value}} !!!",
+    "HELLO3": "Hello3 {{value}} !!!",
+    "DESCRIPTION": " This is {{my}} Home Page.",
+    "YOU CAN SWITCH LANGUAGES": "You can switch languages",
+    "HTML_MESSAGE": "Welcome to my Angular application!<br><strong>This is an amazing app which uses the latest technologies!</strong>"
+  }
+}
